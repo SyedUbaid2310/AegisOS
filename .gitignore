@@ -1,0 +1,28 @@
+# AegisOS executable
+aegis
+
+# Compiled object files
+*.o
+
+# Temporary editor files
+*~
+*.swp
+*.swo
+
+# Temporary memory-mapped demonstration file
+aegis_mmap_demo.txt
+
+# Temporary filesystem demonstration directory
+aegis_fs_demo/
+
+# Runtime logs
+*.log
+
+# Temporary demonstration/output files
+background.txt
+demo.txt
+files.txt
+input.txt
+output.txt
+review.txt
+test.txt
